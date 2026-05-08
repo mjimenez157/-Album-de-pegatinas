@@ -1,1 +1,1 @@
-# -lbum-de-pegatinas
+# -Album-de-pegatinas
